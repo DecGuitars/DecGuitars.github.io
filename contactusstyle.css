@@ -1,0 +1,47 @@
+#name{
+  font-size: 60px;
+  text-align: center;
+}
+
+#matthewdecerbo{
+  font-size: 30px;
+}
+#email{
+  text-color:blue;
+  text-shadow: 2px 2px white;
+}
+#contactme{
+  text-align: center;
+  font-size: 42px;
+  text-shadow: 2px 2px white;
+  text-color:blue;
+}
+#matthewdecerbo{
+  margin-left: 1em;
+}
+body{
+background-image: url("http://www.aamrofreight.net/wp-content/uploads/2014/06/blue-abstract-background.jpg");
+background-size: cover;
+}
+#nav_bar{
+  margin-top: 60px;
+  text-align: center;
+  font-size: 60px;
+}
+a:link{
+text-decoration: none;
+color:blue;
+}
+a:visited{
+  text-decoration: none;
+  color:blue;
+}
+a:hover{
+  text-decoration: none;
+  color:teal;
+}
+a:active{
+  text-decoration: none;
+color:blue;
+
+}

@@ -1,0 +1,60 @@
+#ed{
+  text-align:right;
+}
+
+body{
+  background-image: url("http://www.dovecor.co.za/wp-content/uploads/2015/02/Music-notes2.jpg");
+     background-color: #cccccc;
+     background-size: 100%;
+     height: 10em;
+   }
+p{
+  font-style: oblique;
+  font-family:monospace;
+  color:black;
+  font-size:32px;
+  text-decoration: inherit;
+  text-shadow: 1px 1px white;
+  margin-left: 1em;
+  margin-right: 1em;
+
+}
+#name{
+  font-size: 6em;
+  color:black;
+  text-align: center;
+  vertical-align: bottom;
+  text-shadow: 3px 3px white;
+}
+#name_bar{
+  margin:-10px;
+  margin-top:-30px;
+  padding:0px;
+
+  height:8em;
+  width:101.5%;
+}
+#nav_bar{
+  margin-top: 1.5em;
+  text-align: center;
+  font-size: 60px;
+}
+a:link{
+text-decoration: none;
+color:black;
+text-shadow: 3px 3px white;
+}
+a:visited{
+  text-decoration: none;
+  color:black;
+  text-shadow: 3px 3px white;
+}
+a:hover{
+  text-decoration: none;
+  color:yellow;
+}
+a:active{
+  text-decoration: none;
+color:blue;
+
+}
